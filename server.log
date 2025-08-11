@@ -1,0 +1,6 @@
+2023-01-15 10:30:25 INFO User login successful
+2023-01-15 10:31:15 ERROR Database connection failed
+2023-01-15 10:32:10 INFO User logout
+2023-01-15 10:33:45 WARNING Low disk space
+2023-01-15 10:34:20 ERROR Authentication failed
+2023-01-15 10:35:05 INFO System backup completed
