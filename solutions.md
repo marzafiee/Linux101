@@ -111,7 +111,7 @@
       - TMP=/tmp
       - ORIGINAL_TEMP=/tmp
   - [X] What is the difference between `more` and `less` commands?
-    - These are paging commands in Linux, menaing they alow you to view long text one screen at a time.
+    - These are paging commands in Linux, meaning they allow you to view long text one screen at a time.
     - `more` loads the file as you go and only moves in a forward manner while `less` allows you to navigate the lines in both forward and backward manners and it preloads buffer for faster navigation.
     - You should use `less` if you want smoother navigation and better search in long files.
 
