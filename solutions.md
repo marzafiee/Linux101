@@ -177,5 +177,4 @@
   - [x] Extract all timestamps (first two columns)
     - ![Example](images/ex15_3.png)
   - [x] Find lines that contain either "login" or "logout"
-    - -- with "login" starting first ![Example](images/ex15_4.png) 
-    - -- with "logout" starting first ![Example](images/ex15_5.png) 
+    - updated with better solution:![Example](images/ex15_4.png) 
